@@ -22,7 +22,7 @@ def make_graphh_dataset(path_stp, path_graph):
 
 
 if __name__ == "__main__":
-    path_stp = "path1"
+    path_stp = "/home/wild-woo/workspace/geometric_ws/3D_STEP_Classification/Traceparts dataset/Step_models"
     path_graph = "path2"
 
     make_graphh_dataset(path_stp, path_graph)
